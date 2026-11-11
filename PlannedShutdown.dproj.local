@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.02.28 18:30:29.560,=D:\Programming\Delphi\Unit2.pas</Transaction>
+    <Transaction>2026.02.28 18:37:10.373,D:\Programming\Delphi\UMain.dfm=D:\Programming\Delphi\Unit2.dfm</Transaction>
+    <Transaction>2026.02.28 18:37:10.373,D:\Programming\Delphi\UMain.pas=D:\Programming\Delphi\Unit2.pas</Transaction>
+    <Transaction>2026.02.28 18:37:19.575,D:\Programming\Delphi\PlannedShutdown.dproj=D:\Programming\Delphi\Project1.dproj</Transaction>
+    <Transaction>2026.02.28 18:38:24.431,D:\Programming\Delphi\PlannedShutdown\UMain.pas=D:\Programming\Delphi\UMain.pas</Transaction>
+    <Transaction>2026.02.28 18:38:24.431,D:\Programming\Delphi\PlannedShutdown\UMain.dfm=D:\Programming\Delphi\UMain.dfm</Transaction>
+    <Transaction>2026.02.28 18:38:25.924,D:\Programming\Delphi\PlannedShutdown\PlannedShutdown.dproj=D:\Programming\Delphi\PlannedShutdown.dproj</Transaction>
+    <Transaction>2026.02.28 19:49:07.964,=D:\Programming\Delphi\PlannedShutdown\Unit1.pas</Transaction>
+    <Transaction>2026.02.28 19:49:11.799,D:\Programming\Delphi\PlannedShutdown\USettings.dfm=D:\Programming\Delphi\PlannedShutdown\Unit1.dfm</Transaction>
+    <Transaction>2026.02.28 19:49:11.799,D:\Programming\Delphi\PlannedShutdown\USettings.pas=D:\Programming\Delphi\PlannedShutdown\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
